@@ -1,0 +1,11 @@
+INSERT INTO `users` (`user_id`, `name`, `email`, `balance`,`account_id`) VALUES
+(1,'Ansh','ansh@gmail.com',50000,'spark@ansh1001'),
+(2,'Akhilesh','akhi@gmail.com',30000,'spark@akhi1002'),
+(3,'Manjeet','manjeet@gmail.com',39900,'spark@manjeet1003'),
+(4,'Arpit','arpit@gmail.com',10000,'spark@arpit1004'),
+(5,'Ajeet','ajeet@gmail.com',40000,'spark@ajeet1005'),
+(6,'Ram','ram@gmail.com',19990,'spark@ram1006'),
+(7,'Shyam','shyam@gmail.com',50009,'spark@shyam1007'),
+(8,'Shreya','shreya@gmail.com',40100,'spark@shreya1008'),
+(9,'Sarita','sarita@gmail.com',30000,'spark@sarita1009'),
+(10,'Ajay','ajay@gmail.com',50001,'spark@ajay1010');
