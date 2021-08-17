@@ -26,8 +26,8 @@
 	    <div class="quick-links">
 			<ul>
 				<li class="quick-items"><a href="index.php">HOME</a></li>
+				<li class="quick-items" class="scrollTo"><a href="transaction.php">TRANSACTIONS</a></li>
 				<li class="quick-items" class="scrollTo"><a href="dist/portfolio.php">ABOUT ME</a></li>
-				<li class="quick-items" class="scrollTo"><a href="dist/portfolio.php#section3">CONTACT</a></li>
 				<li class="quick-items" class="scrollTo"><a href="dist/portfolio.php#section3">FEEDBACK</a></li>
 			</ul>
 	    </div>
@@ -35,5 +35,5 @@
 	<div class="outer-footer">
 		Copyright &copy; Ajeet Kumar Jaiswal. All Rights Reserved
 	</div>
-</footer>
+    </footer>
 </body>
