@@ -20,10 +20,9 @@
 		<label class="logo"><i class="fa fa-handshake-o" aria-hidden="true"></i> Welcome!</label>
 		<ul>
 			<li><a href="index.php" class="active"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+			<li><a class="scrollTo" href="transaction.php">Transactions</a></li>
 		    <li><a class="scrollTo" href="dist/portfolio.php">About me</a></li>
-		    <li><a class="scrollTo" href="dist/portfolio.php#section3">Contact</a></li>
 		    <li><a class="scrollTo" href="dist/portfolio.php#section3">Feedback</a></li>    
 		</ul>
 	</nav>
 </body>
-</html>
