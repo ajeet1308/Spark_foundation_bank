@@ -1,7 +1,7 @@
 <?php
 
 try{
-$pdo=new PDO('mysql::host=localhost;port=3306;dbname=sparkfoundation','root','root');
+$pdo=new PDO('mysql::host=localhost;port=your port no.;dbname=your file name in php my admin','root','root');
 //See the "errors" folder for detail...
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 }
